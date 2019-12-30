@@ -975,20 +975,10 @@
   resolved "https://registry.yarnpkg.com/@mapbox/jsonlint-lines-primitives/-/jsonlint-lines-primitives-2.0.2.tgz#ce56e539f83552b58d10d672ea4d6fc9adc7b234"
   integrity sha1-zlblOfg1UrWNENZy6k1vya3HsjQ=
 
-"@mapbox/mapbox-gl-language@^0.10.0":
-  version "0.10.1"
-  resolved "https://registry.yarnpkg.com/@mapbox/mapbox-gl-language/-/mapbox-gl-language-0.10.1.tgz#44d19d24205a10a9f27ddd78c55446fe48b94705"
-  integrity sha512-i5+N+FrgR5v8NY4+B+uzFl1Q4gR2OaGoKWgKiayL1bE5715svnx4r4ADTczbZSemI9o426tDKfjAtc3HC2GMCw==
-
 "@mapbox/mapbox-gl-supported@^1.4.0":
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/@mapbox/mapbox-gl-supported/-/mapbox-gl-supported-1.4.1.tgz#c0a03cf75f8b0ad7b57849d6c7e91b0aec4b640f"
   integrity sha512-yyKza9S6z3ELKuf6w5n6VNUB0Osu6Z93RXPfMHLIlNWohu3KqxewLOq4lMXseYJ92GwkRAxd207Pr/Z98cwmvw==
-
-"@mapbox/mapbox-gl-traffic@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@mapbox/mapbox-gl-traffic/-/mapbox-gl-traffic-1.0.2.tgz#afb120633a397a6c539865db2bde5c5933dad96b"
-  integrity sha1-r7EgYzo5emxTmGXbK95cWTPa2Ws=
 
 "@mapbox/point-geometry@0.1.0", "@mapbox/point-geometry@^0.1.0", "@mapbox/point-geometry@~0.1.0":
   version "0.1.0"
@@ -1352,19 +1342,6 @@
     lodash.unescape "4.0.1"
     semver "^6.3.0"
     tsutils "^3.17.1"
-
-"@urbica/react-map-gl-cluster@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@urbica/react-map-gl-cluster/-/react-map-gl-cluster-0.2.0.tgz#0999e09b37be6182a7ba39668468c2e374de897c"
-  integrity sha512-/ibJS+ZiQd9Cc2MeeIfXXUh/husiVqDLFU1rT9dKWNyoo3+srX8TMWbnF58oN1XpxpYLBa764PH9cbOoROT6Cw==
-
-"@urbica/react-map-gl@^1.12.3":
-  version "1.12.3"
-  resolved "https://registry.yarnpkg.com/@urbica/react-map-gl/-/react-map-gl-1.12.3.tgz#37b07f42a905a1b617549b9bd9dc6ff009fa6daf"
-  integrity sha512-J4pKVmIIJ8Azhs5GLVZnQXuh9+cOCS4d7D4QAZEXTJGhx9bJ4WVApzUSzLognUQVBRL6D+IMubhaDupYaC+hFA==
-  optionalDependencies:
-    "@mapbox/mapbox-gl-language" "^0.10.0"
-    "@mapbox/mapbox-gl-traffic" "^1.0.2"
 
 "@webassemblyjs/ast@1.8.5":
   version "1.8.5"
