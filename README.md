@@ -1,4 +1,4 @@
 # MapBox Clustering with Remote Data
 
 - Article: https://www.leighhalliday.com/mapbox-clustering
-- Video: Coming soon
+- Video: https://youtu.be/3HYvbP2pQRA
